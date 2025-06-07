@@ -1,0 +1,7 @@
+[
+  {
+    "remote": "aicp",
+    "repository": "AICP/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common"
+  }
+]
